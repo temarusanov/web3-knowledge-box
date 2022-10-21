@@ -1,5 +1,7 @@
 # Web3 knowledge box
 
+Hello, I have compiled a library of topics related to blockchain and web3. Each topic leads to a link where you can learn more about the technology, platform, or standard. I warn you that one link is not enough to learn everything about a particular topic.
+
 ## Blockchain
 
 ### Basic
