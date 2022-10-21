@@ -78,7 +78,7 @@ Hello, I have compiled a library of topics related to blockchain and web3. Each 
 - [NFT auctions. How it works](https://www.nftically.com/blog/how-do-auctions-work-for-nfts/)
 - [Liquidity Pool. What is it, how does it work?](https://www.youtube.com/watch?v=dVJzcFDo498)
 - [Impermament loss. What it is? How to avoid?](https://www.youtube.com/watch?v=_m6Mowq3Ptk)
-- [Arbitration. What is it, how does it work?](https://www.youtube.com/watch?v=b3BcH5DvC-Q)
+- [Arbitrage. What is it, how does it work?](https://www.youtube.com/watch?v=b3BcH5DvC-Q)
 - [APY, APR. What displays, how is it considered?](https://academy.binance.com/en/articles/apy-vs-apr-what-s-the-difference)
 - [IDO and ICO. What is it, why is it needed?](https://www.youtube.com/watch?v=a2Yd9mbfAos)
 - [Stablecoins. What is it, how do they work?](https://www.youtube.com/watch?v=pGzfexGmuVw)
