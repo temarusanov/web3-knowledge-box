@@ -7,7 +7,7 @@ Hello, I have compiled a library of topics related to blockchain and web3. Each 
 ### Basic
 
 - [Blockchain. How does the blockchain work](https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae)
-- [Web3. What is it, what are the differences from Web2](https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae)
+- [Web3. What is it, what are the differences from Web2](https://ethereum.org/en/developers/docs/web2-vs-web3/)
 - [Blockchain structure. What is decentralization and how is it achieved](https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture)
 - [Blockchain use cases](https://consensys.net/blockchain-use-cases/)
 - [Consensus mechanisms](https://crypto.com/university/consensus-mechanisms-in-blockchain)
@@ -87,4 +87,9 @@ Hello, I have compiled a library of topics related to blockchain and web3. Each 
 
 - [Cryptography. What is it, why is it needed in the blockchain?](https://www.youtube.com/watch?v=6_Cxj5WKpIw)
 - [Elliptic curve. How is it used in the blockchain?](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
+
+# Library
+
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [Practical cryptography for developers](https://cryptobook.nakov.com/)
 
